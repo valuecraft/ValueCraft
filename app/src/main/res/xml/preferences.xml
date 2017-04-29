@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="pref_poc"
+        android:title="@string/pref_poc"
+        android:summary="@string/pref_poc_summ"
+        android:defaultValue="" />
+
+</PreferenceScreen>

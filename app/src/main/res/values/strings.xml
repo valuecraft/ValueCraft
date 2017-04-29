@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ValueCraft</string>
+    <string name="pref_poc">PoC name</string>
+    <string name="pref_poc_summ">Give your PoC URL prefix</string>
 </resources>
